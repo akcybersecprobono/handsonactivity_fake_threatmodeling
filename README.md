@@ -41,6 +41,10 @@ Security_Starter_Pack/
 │
 └──
 ```
+   
+### **Directory Screenshot:**
+            
+   ![image](https://github.com/user-attachments/assets/bf492788-8967-4666-8c07-a5c5a549f34b)
 
 ---
 
