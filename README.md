@@ -63,17 +63,6 @@ If you've never used GitHub before or need a secure way to clone private reposit
    - `repo` (for full control of private repositories)
    - `read:org` (optional, if needed for organization data)
 6. Click **Generate token** and copy it securely (you won’t be able to see it again).
-7. Yehbaadmaihatanahai <!--In this case the token has been created by the instructure for a limited time, you can use this for the purposes of this simulation.-->
-    
-    - **Kyaraazhai**
-        ```
-        shhhh..kuch to hai.. tum nahi samjhoge!
-    <!-- 
-        ```
-            - arafiyat: aksinha02
-            - zati_rasi_khoofiya_jod: 12qwaszX!@1BK2VMRA0jpdslR80Gguj_h71PKJWPIhw9ek4hAE3XRKV9XjCQS3GX1WCZYw6o9rGGCDVXDR7EA52gtdT
-            - zakhairah_urf_kosh_naam: handsonactivity_fake_threatmodeling/Security_Starter_Pack/
-    -->
 
 #### 💻 **Step 2: Clone the Repository**
 - Open a terminal (Linux/macOS) or Command Prompt (Windows).
